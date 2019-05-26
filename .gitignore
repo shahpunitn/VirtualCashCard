@@ -1,0 +1,16 @@
+
+CardProgram\.Tests/obj/
+
+CardProgram\.Tests/bin/
+
+CardProgram/packages/
+
+CardProgram/obj/
+
+CardProgram/bin/
+
+CardProgram/\.vs/
+
+CardProgram/CardProgram\.Services/obj/
+
+CardProgram/CardProgram\.Services/bin/
