@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardProgram", "CardProgram.csproj", "{56EE3A89-893B-4EB0-A773-1F77FABCFAFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardProgram.Tests", "..\CardProgram.Tests\CardProgram.Tests.csproj", "{CEB12383-51A5-465C-A9D2-5508BFB64919}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardProgram.Services", "CardProgram.Services\CardProgram.Services.csproj", "{8D624BF3-B0D3-4C89-8829-5768D070DA2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56EE3A89-893B-4EB0-A773-1F77FABCFAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56EE3A89-893B-4EB0-A773-1F77FABCFAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56EE3A89-893B-4EB0-A773-1F77FABCFAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56EE3A89-893B-4EB0-A773-1F77FABCFAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEB12383-51A5-465C-A9D2-5508BFB64919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB12383-51A5-465C-A9D2-5508BFB64919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB12383-51A5-465C-A9D2-5508BFB64919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB12383-51A5-465C-A9D2-5508BFB64919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D624BF3-B0D3-4C89-8829-5768D070DA2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D624BF3-B0D3-4C89-8829-5768D070DA2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D624BF3-B0D3-4C89-8829-5768D070DA2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D624BF3-B0D3-4C89-8829-5768D070DA2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
